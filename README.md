@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Juan Pérez 👋
 
-<!--
-**dev-junior13/dev-junior13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+## Información sobre mí
+- 👨‍💻 Soy desarrollador web.
+- 🎂 Edad: 25 años
+- 🌍 Vivo en Madrid, España.
+- 💬 Me encanta ayudar a otros a aprender a programar.
+- 🌱 Actualmente estoy aprendiendo **React** y **Node.js**.
+- 📚 Me gusta leer sobre **tecnologías emergentes** y **inteligencia artificial**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis redes sociales:
+- 🐦 [Twitter](https://twitter.com/juanperez)
+- 📸 [Instagram](https://instagram.com/juanperez)
+- 🌐 [Mi sitio web](https://juanperez.dev)
+
+## Algunos de mis proyectos:
+- 🚀 [Mi Proyecto de React](https://github.com/juanperez/proyecto-react)
+- 🛠️ [Mi API en Node.js](https://github.com/juanperez/api-node)
+
+## 📈 Estadísticas de mi GitHub:
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=radical)
